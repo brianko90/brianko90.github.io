@@ -2686,7 +2686,7 @@ input, select, textarea {
 			}
 
 		.spotlight .content {
-			padding: 0em 2em 0.1em 4em ;
+			padding: 2em 2em 1em 4em ;
 			-moz-order: 2;
 			-webkit-order: 2;
 			-ms-order: 2;
