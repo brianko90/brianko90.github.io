@@ -4010,7 +4010,8 @@ input, select, textarea {
 		font-size: 60px;
 	}
 
-	.education-title {
+	.font-icons > i:hover {
+		color: #21b2a6;
 	}
 
 	.education-info {
