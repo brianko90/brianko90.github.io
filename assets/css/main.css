@@ -4060,3 +4060,8 @@ input, select, textarea {
 	.about-info {
 		margin-left: 30px;
 	}
+
+	.last-image {
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
